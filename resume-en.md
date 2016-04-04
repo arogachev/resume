@@ -18,7 +18,7 @@ Finished with diploma with honours.
 
 # Work experience
 
-## "Baza МТО", LLC
+## "Baza MTO", LLC
 
 **Time period:** December 2013 - April 2016 (2 year 4 months)
 
