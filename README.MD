@@ -1,5 +1,5 @@
 # My resume
 
-[English version](resume-en)
+[English version](resume-en.md)
 
-[Russian version](resume-ru)
+[Russian version](resume-ru.md)
