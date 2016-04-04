@@ -194,7 +194,7 @@ Can work with others code, try to write high-quality code, according to standard
 
 Perfectionist, but try to find a balance between quality, dedlines and requirements.
 
-**Additional informationn:**
+**Additional information:**
 
 - single, don't have children;
 - dont't have any addictions, support healthy lifestyle, play sports;
