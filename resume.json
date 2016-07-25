@@ -1,0 +1,318 @@
+{
+  "basics": {
+    "name": "Alexey Rogachev",
+    "label": "Web programmer",
+    "picture": "",
+    "email": "arogachev90@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Full stack web developer from Petropavl, Kazakhstan. Mostly working with PHP and Yii 2 framework. Perfectionist, but try to find a balance between quality, deadlines and requirements.",
+    "location": {
+      "address": "",
+      "postalCode": "150000",
+      "city": "Petropavl",
+      "countryCode": "KZ",
+      "region": "North Kazakhstan"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "arogachev",
+        "url": "https://github.com/arogachev"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "arogachev",
+        "url": "http://stackoverflow.com/users/4323648/arogachev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Alexey Rogachev",
+        "url": "https://www.linkedin.com/in/alexey-rogachev-182b68109?trk=hp-identity-name"
+      },
+      {
+        "network": "Twitter",
+        "username": "arogachev90",
+        "url": "https://twitter.com/arogachev90"
+      },
+      {
+        "network": "Vkontakte",
+        "username": "arogachev90",
+        "url": "http://vk.com/arogachev90"
+      },
+      {
+        "network": "Facebook",
+        "username": "Alexey Rogachev",
+        "url": "https://www.facebook.com/profile.php?id=100009774254444"
+      },
+      {
+        "network": "Instagram",
+        "username": "arogachev90",
+        "url": "https://www.instagram.com/arogachev90/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Baza MTO, LLC (Petropavl, Kazakhstan)",
+      "position": "Web programmer",
+      "website": "https://fora.kz/",
+      "startDate": "2014-01-09",
+      "endDate": "2016-04-17",
+      "summary": "FORA company is one of the largest sellers of electronic equipment. Has many shops across Kazakhstan. Backend programming in Yii 1 and Yii 2 PHP frameworks. Frontend programming and some work with layout using JavaScript, jQuery, AngularJS, Bootstrap 3",
+      "highlights": [
+        "Worked on support and improvement of main public company site - fora.kz (e-commerce). It was built with Yii 1.1, not it's rewritten in Yii 2",
+        "Worked on public company job service - job.fora.kz (development from scratch, support). Built with Yii 2",
+        "Worked on internal private ERP system - development from scratch according to company specific and needs. Built with Yii 2 and PostgreSQL. Modules development and support. Currently system is introduced and required for usage for every employee",
+        "Worked on some other internal private projects to automate and optimize work of employees inside the company (guarantee and repair service, advertising, etc.)",
+        "Personal achievement - Reached completely new level in work with PHP - learned OOP, MVC, some design patterns, frameworks Yii 1 and Yii 2, PHPDoc, PSR, development on the latest versions (5.6), with usage of its features",
+        "Personal achievement - Learned and started to use Git VCS",
+        "Personal achievement - Improved working with layout skills, started to use CSS frameworks - Bootstrap 2 и 3, Grunt for building project assets",
+        "Personal achievement - Usage of JIRA tracking system",
+        "Personal achievement - Improved JavaScript and jQuery skills, used AngularJS and template engines (Handlebars.js) for solving some tasks",
+        "Personal achievement - Started to use more convenient local development tools, such as Vagrant and Puppet (with PuPHPet)",
+        "Personal achievement - Have got Debian and Ubuntu OS administration skills",
+        "Personal achievement - Started to use package managers, such as Composer, Bower, NPM",
+        "Personal achievement - Have faced with PostgreSQL RDBMS, used its some unique features in developed projects",
+        "Personal achievement - Improved Nginx and Apache web servers configuring skills",
+        "Personal achievement - Have got basic testing knowledge using Codeception",
+        "Personal achievement - Developed few extensions for Yii 2",
+        "Personal achievement - Usage of technologies, such as Redis, RabbitMQ, memcached in projects",
+        "Personal achievement - Usage of wide set of auxiliary libraries and components"
+      ]
+    },
+    {
+      "company": "INSY, LLC (Petropavl, Kazakhstan)",
+      "position": "Programmer-analyst",
+      "website": "http://insy.kz/",
+      "startDate": "2012-11-01",
+      "endDate": "2013-11-15",
+      "summary": "INSY company is website design company based in Petropavl, Kazakhstan. Work on company projects in PHP based CMS (UMI.CMS and 1C-Bitrix).",
+      "highlights": [
+        "Working with layout",
+        "Programming (including non-standard functionality) using CMS API",
+        "Minor design fixes",
+        "Integration between 1C and sites, adding related non-standard functionality to the sites",
+        "Filling products catalog on one of the projects - http://mchip.kz/ (about 2000 products)",
+        "Editing product images",
+        "Content management",
+        "Management work with clients",
+        "Basic SEO and SMM",
+        "Integration of payment systems - VISA, QIWI, KASSA 24",
+        "Work on internal company CRM - completion of existing modules and development of new ones.",
+        "Working with layout skills (HTML, CSS) and programming (PHP, JavaScript, JQuery) were considerably improved",
+        "Personal achievement - SQL and MySQL knowledge was improved",
+        "Personal achievement - Have mastered XSLT template engine",
+        "Personal achievement - Development of non-standard functionality in UMI.CMS and 1C-Bitrix",
+        "Personal achievement - Active participation in company life, initiative manifestation",
+        "Personal achievement - Have got basic skills with work with CentOs",
+        "Personal achievement - Started to use VCS - HG (Mercurial)"
+      ]
+    },
+    {
+      "company": "BARS-NORD, LLC",
+      "position": "Web technologies specialist",
+      "website": "http://bars-stroy.kz/",
+      "startDate": "2011-08-15",
+      "endDate": "2012-11-01",
+      "summary": "Bars Stroy company is construction materials seller. Has some branches across Kazakhstan. Improvement and support of existing main company site based on UMI.CMS (PHP)",
+      "highlights": [
+        "Working with layout",
+        "Programming - fixing bugs, development of new functionality",
+        "Minor design fixes",
+        "Content management",
+        "1C integration",
+        "Filling products catalog - almost all products (filled products count - about 7000)",
+        "Products photographing and photos editing",
+        "Basic SEO",
+        "SMM",
+        "Clients support in social networks",
+        "Rewriting, copywriting",
+        "Personal achievement - improved knowledge of HTML, CSS, PHP, JavaScript, jQuery",
+        "Personal achievement - have got good experience with UMI.CMS",
+        "Personal achievement - work was versatile (because I was the only one working with site, at the end designer helped a bit) and wasn't limited to programming only: editing images skills, SEO knowledge were improved, learned a lot of new information about construction materials",
+        "Personal achievement - filled products catalog almost alone, in the future it became a base for e-commerce (after my leaving, because at the moment of my work administration was not ready to create it yet)",
+        "Personal achievement - have got communication experience with people of different positions and from different departments (including meetings, etc.) and clients during answering and consultation through messengers and social networks",
+        "Personal achievement - showed initiative in many questions related to site"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Tatyana Nazarenko Photo Studio",
+      "position": "Web programmer",
+      "website": "https://tnazarenko.com/",
+      "startDate": "2015-07-04",
+      "endDate": "2015-11-02",
+      "summary": "Personal site with portfolio. Hosting is expired, person is not interested to develop site and fill content anymore.",
+      "highlights": [
+        "Learned Ruby basics",
+        "Learned Ruby on Rails 4 basics",
+        "Deployed project to shared hosting using Capistrano",
+        "Implemented image cropping for better display"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Kazakhstan State University, named for M. Kozybaev",
+      "area": "050602 - Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2011-06-15",
+      "gpa": "3.81",
+      "courses": [
+        "WD3222 - Web-Design",
+        "Alg1204 - Algebra",
+        "AS2215 - Algebraic Structures",
+        "ASD2213 - Algorithms and Structure of Data",
+        "AVR4309 - Analysis of Temporal Series",
+        "AKS1218 - Computer System Architecture",
+        "Geo1205 - Geometry",
+        "DMML2210 - Discrete Mathematics and Mathematical Logic",
+        "DU2206 - Differential Equations",
+        "DGML3219 - Supplementary Chapters on Mathematical Logic",
+        "ZI4220 - Information Security",
+        "IYa1103 - Foreign Language",
+        "Inf1104 - Computer Science",
+        "KYa1102 - Kazakh Language",
+        "MSKG3221 - Computer Graphics",
+        "KS3304 - Computer Networks",
+        "MMPP4314 - Mathematical Models of Production Planning",
+        "MAAF1202 - Mathematical Analysis. Analysis of Function with one Variable",
+        "MAAF2203 - Mathematical Analysis. Analysis of Functions with many Variable Quantities",
+        "MAVA1201 - Mathematical Analysis. Introduction to the Analysis",
+        "MM3216 - Mathematical Modeling",
+        "MPI3214 - Teaching Methods of Computer Science",
+        "MOIO3209 - Methods of Optimization and Operations Research",
+        "OOP3301 - Object-Oriented Programming",
+        "OS2303 - Operating Systems",
+        "OBZh4112 - Bases of Life Safety",
+        "OP1108 - Basic Law",
+        "OS2306 - Bases of Circuitry",
+        "OET2107 - Bases of Economic Theory",
+        "PV4305 - Parallel Computations",
+        "Pol3109 - Political Science",
+        "SP2302 - System Programming",
+        "SII4308 - Artificial-Intelligence Systems",
+        "Soc3110 - Sociology",
+        "SA4311 - Statistical Analysis",
+        "TBD3307 - Data Base Theory",
+        "TVMS3211 - Theory of Probability and Mathematical Statistics",
+        "TG3217 - Graph Theory",
+        "TYaA2212 - Language and Automatic Machine Theory",
+        "Fil2106 - Philosophy",
+        "ChM3208 - Numerical Methods",
+        "Eko1105 - Environmental Science",
+        "EPDO1111 - Ethics and Psychology of Business Communication",
+        "YaTP2207 - Programming Languages and Technologies",
+        "IS3310 - Information Systems (Course Project)",
+        "Mat2312 - Mathematics (Course paper)",
+        "PM4313 - Applied Mathematics (Course paper)"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Yii",
+        "UMI.CMS",
+        "1C-Bitrix",
+        "PHPUnit",
+        "Codeception",
+        "Twig",
+        "Ruby",
+        "Capistrano",
+        "Ruby on Rails",
+        "Python",
+        "Django",
+        "HTML",
+        "XLST",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "Grunt",
+        "Gulp",
+        "jQuery",
+        "AngularJS",
+        "Handlebars.js",
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "Redis",
+        "Nginx",
+        "Apache",
+        "Vagrant",
+        "Puppet",
+        "PuPHPet",
+        "Git",
+        "Hg (Mercurial)",
+        "Debian",
+        "Ubuntu",
+        "CentOS",
+        "RabbitMQ",
+        "memcached"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Can pass interviews"
+    },
+    {
+      "language": "Kazakh",
+      "fluency": "Basic knowledge"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "gym",
+        "running",
+        "bike",
+        "stretching"
+      ]
+    },
+    {
+      "name": "Foreign languages studying",
+      "keywords": [
+        "english"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "nature",
+        "architecture"
+      ]
+    },
+    {
+      "name": "Psychology",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "keywords": []
+    },
+    {
+      "name": "Movies",
+      "keywords": []
+    },
+    {
+      "name": "Books",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
