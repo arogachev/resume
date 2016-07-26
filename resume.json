@@ -54,6 +54,24 @@
   },
   "work": [
     {
+      "company": "Zernovye & Maslichnye. Kazakhstan",
+      "position": "Web programmer",
+      "website": "http://margin.kz/",
+      "startDate": "2016-04-06",
+      "endDate": "",
+      "summary": "News and analytics about agriculture in Kazakhstan. Developing with Django and PostgreSQL.",
+      "highlights": [
+        "Rewrote existing company site from Joomla to Django",
+        "Fixed bugs, improved functionality, migrated all existing data",
+        "Some content is now closed and payment required to view it",
+        "Implemented image cropping for better images display",
+        "Developed new module - agricultural enterprises with map",
+        "Personal achievement - Learned Python basics",
+        "Personal achievement - Learned Django basics",
+        "Personal achievement - Improved skills of configuring VPS from scratch"
+      ]
+    },
+    {
       "company": "Baza MTO, LLC (Petropavl, Kazakhstan)",
       "position": "Web programmer",
       "website": "https://fora.kz/",
@@ -87,7 +105,7 @@
       "website": "http://insy.kz/",
       "startDate": "2012-11-01",
       "endDate": "2013-11-15",
-      "summary": "INSY company is website design company based in Petropavl, Kazakhstan. Work on company projects in PHP based CMS (UMI.CMS and 1C-Bitrix).",
+      "summary": "INSY company is website developing company based in Petropavl, Kazakhstan. Work on company projects in PHP based CMS (UMI.CMS and 1C-Bitrix).",
       "highlights": [
         "Working with layout",
         "Programming (including non-standard functionality) using CMS API",
