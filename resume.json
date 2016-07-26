@@ -216,48 +216,135 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Programming languages",
       "level": "Master",
       "keywords": [
         "PHP",
-        "Yii",
-        "UMI.CMS",
-        "1C-Bitrix",
-        "PHPUnit",
-        "Codeception",
-        "Twig",
+        "JavaScript",
         "Ruby",
-        "Capistrano",
+        "Python"
+      ]
+    },
+    {
+      "name": "Web frameworks",
+      "level": "Master",
+      "keywords": [
+        "Yii",
         "Ruby on Rails",
-        "Python",
-        "Django",
+        "Django"
+      ]
+    },
+    {
+      "name": "CMS",
+      "level": "Master",
+      "keywords": [
+        "UMI.CMS",
+        "1C-Bitrix"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
         "HTML",
-        "XLST",
         "CSS",
         "SASS",
         "Bootstrap",
-        "JavaScript",
         "Grunt",
         "Gulp",
         "jQuery",
-        "AngularJS",
-        "Handlebars.js",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
         "MySQL",
         "PostgreSQL",
         "SQLite",
-        "Redis",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Web servers",
+      "level": "Master",
+      "keywords": [
         "Nginx",
         "Apache",
-        "Vagrant",
-        "Puppet",
-        "PuPHPet",
+        "Unicorn",
+        "Gunicorn"
+      ]
+    },
+    {
+      "name": "Deploy",
+      "level": "Master",
+      "keywords": [
+        "Deployer",
+        "Capistrano"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Master",
+      "keywords": [
+        "PHPUnit",
+        "Codeception"
+      ]
+    },
+    {
+      "name": "Version control systems",
+      "level": "Master",
+      "keywords": [
         "Git",
-        "Hg (Mercurial)",
+        "Hg (Mercurial)"
+      ]
+    },
+    {
+      "name": "Operating systems",
+      "level": "Master",
+      "keywords": [
         "Debian",
         "Ubuntu",
-        "CentOS",
-        "RabbitMQ",
+        "CentOS"
+      ]
+    },
+    {
+      "name": "Work automating",
+      "level": "Master",
+      "keywords": [
+        "Vagrant",
+        "Puppet",
+        "PuPHPet"
+      ]
+    },
+    {
+      "name": "Template engines",
+      "level": "Master",
+      "keywords": [
+        "Twig",
+        "Handlebars.js"
+      ]
+    },
+    {
+      "name": "Caching",
+      "level": "Master",
+      "keywords": [
         "memcached"
+      ]
+    },
+    {
+      "name": "Queue systems",
+      "level": "Master",
+      "keywords": [
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "Master",
+      "keywords": [
+        "XLST"
       ]
     }
   ],
